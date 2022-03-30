@@ -4,12 +4,12 @@ p {
     justify-content: center;
 }
 
-p>span {
+p span {
     margin: 0 2rem;
     text-align: center;
     width: 200px;
 }
 
-p>i {
+p i {
     cursor: pointer;
 }
